@@ -1,0 +1,21 @@
+{
+    "name": "sourcejs-nunjucks",
+    "version": "1.0.0",
+    "description": "Nunjucks support for SourceJS",
+    "main": "index.js",
+    "author": "Marek Viger <marek.viger@gmail.com>",
+    "license": "MIT",
+    "keywords": [
+        "sourcejs",
+        "nunjucks"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/freezy-sk/sourcejs-nunjucks.git"
+    },
+    "homepage": "https://github.com/freezy-sk/sourcejs-nunjucks",
+    "dependencies": {
+        "deep-extend": "^0.3.2",
+        "nunjucks": "^2.4.0"
+    }
+}
